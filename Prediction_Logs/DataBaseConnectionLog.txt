@@ -1,0 +1,4 @@
+2023-03-26/12:49:02		Opened Prediction database successfully
+2023-03-26/12:49:02		Closed Prediction database successfully
+2023-03-26/12:49:02		Opened Prediction database successfully
+2023-03-26/12:49:12		Opened Prediction database successfully
