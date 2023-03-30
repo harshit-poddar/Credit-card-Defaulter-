@@ -1,4 +1,4 @@
-[Live Demo](https://credit-oq8l.onrender.com){target="_blank"}
+[Live Demo](https://credit-oq8l.onrender.com)
 ### Problem Statement :
 - We are using customized ml approach different datasets as well as different models for different task under the same application.
 
